@@ -12,3 +12,6 @@
 ![main](https://user-images.githubusercontent.com/110362553/206702964-ac1cd53a-659c-4d3c-9f56-01035b916a48.png)
 ![fail](https://user-images.githubusercontent.com/110362553/206702958-d3c293d1-339f-4bde-b6ee-5f001b3d7fb5.png)
 ![graph](https://user-images.githubusercontent.com/110362553/206702951-b9738b0f-5d75-46db-86be-0bb36bc5ad2a.png)
+
+## Techno :
+>HTML / CSS / Python / C / SQL
